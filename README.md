@@ -1,5 +1,6 @@
 # Java8新特性总结(Lambda表达式,StreamAPI,Optional 容器类,全新日期操作类)
 <hr>
+
 ## Lambda 表达式的基础语法(上联：左右遇一括号省 下联：左侧推断类型省 横批：能省则省)
 
 ### Lambda 表达式的基础语法：
